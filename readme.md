@@ -14,7 +14,7 @@ __Второй семинар по ***git***__
 
 -   **git branch** - вывод веток репозитория
 
--   **git branch <name_branch>** - создание ветки в репозитории
+-   **git branch <name_branch>** - создание ветки в репозитории альтернативная команда **git checkout -b** <name_branch>
 
 -   **git checkout <name_branch>** - переход между ветками в репозитарии
 
