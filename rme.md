@@ -22,3 +22,11 @@ __Второй семинар по ***git***__
 
 1. Ветка **master** является приоритетной
 
+-   **git config init.defaultBranch** - отображение деолтной ветки 
+
+-   **git config --global init.defaultBranch <имя_ветки>** - смена дефолтной ветки
+
+-   **git merge <name_branch>** - слияние веток
+
+пробуем обновить и слияние
+
